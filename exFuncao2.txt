@@ -1,0 +1,9 @@
+1 - faça uma função que recebe uma string e retorna a string invertida
+
+2 - faça uma função que recebe uma string e um caractere, e retorna quantas vezes o caracter ocorre na string
+
+3 - faça uma função que converta horas em notação de 24h para 12h. Ex: 23:57 vira 11:57 P.M. Ou seja, a função recebe
+uma string representando as horas, e retorna uma string que representa as horas convertidas
+
+4 - faça uma função que simule o lançamento de um dado 1 milhão de vezes e no final informe as estatisticas de
+frequência de resultados
