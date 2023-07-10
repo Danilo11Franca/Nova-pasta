@@ -30,3 +30,5 @@ obj.chave = "xave atualizada"
 
 
 console.log(Object.keys(obj))
+
+
